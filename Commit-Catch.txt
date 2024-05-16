@@ -1,1 +1,2 @@
 Hello! Write something below this!
+brew install --cask git-credential-manager
