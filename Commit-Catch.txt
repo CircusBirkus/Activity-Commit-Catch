@@ -1,3 +1,6 @@
 Hello! Write something below this!
 brew install --cask git-credential-manager
 HOORAYY
+cars 
+cats 
+tuco 
